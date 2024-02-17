@@ -1,0 +1,16 @@
+{
+  "name": "My PWA",
+  "icons": [
+    {
+      "src": "512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "protocol_handlers": [
+    {
+      "protocol": "web+bitcoin",
+      "url": "/success.html?btc=%s"
+    }
+  ]
+}
