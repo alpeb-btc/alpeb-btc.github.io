@@ -12,5 +12,7 @@
       "protocol": "web+bitcoin",
       "url": "/success.html?btc=%s"
     }
-  ]
+  ],
+  "start_url": "https://alpeb-btc.github.io",
+  "display": "standalone"
 }
