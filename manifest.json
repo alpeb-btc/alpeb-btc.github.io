@@ -9,7 +9,7 @@
   ],
   "protocol_handlers": [
     {
-      "protocol": "web+bitcoin",
+      "protocol": "bitcoin",
       "url": "/success.html?btc=%s"
     }
   ],
